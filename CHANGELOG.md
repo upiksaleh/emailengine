@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.49.1](https://github.com/postalsys/emailengine/compare/v2.49.0...v2.49.1) (2024-11-12)
+
+
+### Bug Fixes
+
+* Prevent throwing an exception if serviceUrl is not set ([e947a0b](https://github.com/postalsys/emailengine/commit/e947a0bf6f15cacbd2426dd81df03f9acba6a340))
+
 ## [2.49.0](https://github.com/postalsys/emailengine/compare/v2.48.7...v2.49.0) (2024-11-10)
 
 
